@@ -3,7 +3,7 @@ Nous avons 3 jours ensemble pour apprendre à faire des jeux dont les périphér
 Mon but est de vous partager les connaissances que j'ai accumlé ces derniers années sur le sujet.
 
 
-List temporaire:
+List temporaire pour de la lecture:
 - UART et Arduino Uno
   - Avantage, ça marche c'est rapide et la bonne manière de faire
   - Désavantage, faut être coder et avoir une app lisant le SerialPort  
@@ -25,7 +25,10 @@ List temporaire:
 - Simuler un manette XInput avec Arduino
   - Fonction avec tout les jeux à manette
 - Simuler un manette XInput avec Arduino et Brook
-  - Avantage ça marche pour les consoles      
+  - Avantage ça marche pour les consoles
+- Utiliser un micro:bit  https://amzn.to/3Ur9ne2
+- Utiliser un Makey Makey: https://amzn.to/4hpktdI
+- Utiliser un 2040RP:
 - HC06 via UART
   - Avantage, pas besoin de réseaux
   - Désavantage,
@@ -71,10 +74,11 @@ List temporaire:
   - Désavantage, c'est chère
  
 Mention honorable:
-- Infrarouge
-- Xbox Live
-- Playstation Remote
-  
+- Infrarouge sur Arduino
+- Xbox Live et XInput pour simuler 4 manettes de jeux
+- Playstation Remote pour 
+- Injection de command line avec un raspberry micro
+- Utilisation de 2040 watch pour le gryo
    
 
  
