@@ -129,6 +129,7 @@ Terminer les Mortes Mines dans *World of Warcraft* sans clavier ni manettes ache
 - Peinture conductrice – [Lien pour achat](https://amzn.to/40maOP0).
 - vJoy pour simuler des manettes.
 - Modifier un jouet FM pour ajouter des fonctionnalités pour moins de 10€.
+- Use Raspberry Pi Zero as relay of a keyboard to make it become a macro board
 
 **Sujet :**
 - Kits de capteurs pour Arduino.
