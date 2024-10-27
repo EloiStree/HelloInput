@@ -28,7 +28,10 @@ List temporaire pour de la lecture:
   - Avantage ça marche pour les consoles
 - Utiliser un micro:bit  https://amzn.to/3Ur9ne2
 - Utiliser un Makey Makey: https://amzn.to/4hpktdI
-- Utiliser un 2040RP:
+- Utiliser un RP2040: RP2040: https://amzn.to/3NGOrfr
+- Utiliser un RP2040 Watch: https://amzn.to/3NGOrfr
+- CapacitiveController en Arduino
+  - (Guide:https://www.instructables.com/3-Alternative-to-Makey-Makey/)
 - HC06 via UART
   - Avantage, pas besoin de réseaux
   - Désavantage,
@@ -72,6 +75,12 @@ List temporaire pour de la lecture:
 - Photon
   - Avantage, il gère l'hébergement :)
   - Désavantage, c'est chère
+- Utiliser des antennes FM pour Arduino
+- Utiliser des channel FM de drone (SkyDive)
+- Utiliser des inputs Virtuel avec VRTK et Unity Tookkit sur Quest3s
+- Utiliser l'AR avec Vuforia et AR Core
+- Utiliser le Leap Motion pour les mains
+- Utiliser un vieux Quest pour les mains
  
 Mention honorable:
 - Infrarouge sur Arduino
@@ -79,6 +88,20 @@ Mention honorable:
 - Playstation Remote pour 
 - Injection de command line avec un raspberry micro
 - Utilisation de 2040 watch pour le gryo
-   
+- Conductive PLA https://amzn.to/40kPl95
+- Conductive Paint https://amzn.to/40maOP0
+- vJoy pour simuler des manettes
+- Hack un jouet existant pour la fonction FM
+  - Acheter un jouet FM à <10€
 
+
+Sujet: 
+- Kit de senseurs pour Arduino
+- 
+   
+Complexe:
+- esp32
+
+To do:
+- scratch variable injection via TamperMonkey et Websocket.
  
