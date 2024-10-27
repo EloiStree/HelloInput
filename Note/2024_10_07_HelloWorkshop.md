@@ -1,6 +1,15 @@
+
+
 Nous avons 3 jours ensemble pour apprendre à faire des jeux dont les périphériques (input) sont non classique.
 
 Mon but est de vous partager les connaissances que j'ai accumlé ces derniers années sur le sujet.
+
+Dans cette exercice nous allons jouer à World of Warcraft:
+- Mais le clavier est interdit !!!
+- Les manettes sont tolérée dans un premeir temps mais interdit dans l'exercice final.
+
+L'objectif ?
+- Arriver à finir les mortes mines de Warcraft sans clavier et sans manettes achetetées sur le marcher( pas d'xbox, pas de ps et pas de manette VR)
 
 
 List temporaire pour de la lecture:
@@ -78,9 +87,18 @@ List temporaire pour de la lecture:
 - Utiliser des antennes FM pour Arduino
 - Utiliser des channel FM de drone (SkyDive)
 - Utiliser des inputs Virtuel avec VRTK et Unity Tookkit sur Quest3s
+  - Utiliser les mains
+  - Utiliser le gaze du casque
+  - Utiliser le regard (Pico) 
 - Utiliser l'AR avec Vuforia et AR Core
 - Utiliser le Leap Motion pour les mains
 - Utiliser un vieux Quest pour les mains
+- Utiliser le son d'un microphone
+- Utiliser le son d'un jeu
+- Utiliser le pixel d'un écran
+- Utiliser le son d'un micro arduino
+- Utiliser le variation d'un spectrogramme
+
  
 Mention honorable:
 - Infrarouge sur Arduino
@@ -97,6 +115,9 @@ Mention honorable:
 
 Sujet: 
 - Kit de senseurs pour Arduino
+
+Resistor:
+- Pack 200 https://amzn.to/3NHXQDy
 - 
    
 Complexe:
