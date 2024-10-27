@@ -118,7 +118,7 @@ Sujet:
 
 Resistor:
 - Pack 200 https://amzn.to/3NHXQDy
-- 
+
    
 Complexe:
 - esp32
