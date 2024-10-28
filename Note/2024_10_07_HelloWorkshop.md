@@ -137,6 +137,17 @@ Terminer les Mortes Mines dans *World of Warcraft* sans clavier ni manettes ache
 **Résistances :**
 - Pack de 200 résistances – [Lien pour achat](https://amzn.to/3NHXQDy).
 
+
+|Topic | Read | Write |
+|-|-|-|
+| HID | [Read](#)| [Write](#) |
+| Arcade HID | [Read](#)| [Write](#) |
+| Raspberry Pi Pico HID | [Read](#)| [Write](#) |
+| MIDI | [Read](#)| [Write](#) |
+| UDP | [Read](#)| [Write](#) |
+| OSC | [Read](#)| [Write](#) |
+| UART | [Read](#)| [Write](#) |
+
 **Complexe :**
 - ESP32.
 
