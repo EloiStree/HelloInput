@@ -59,3 +59,32 @@ Open Stick Community: https://osc-pp.netlify.app/
 [![image](https://github.com/user-attachments/assets/41e868c6-12a7-4cda-b8c7-acd4a039c1df)](https://www.youtube.com/watch?v=ruOp8MGgNv0)  
 https://www.youtube.com/watch?v=ruOp8MGgNv0  
 https://www.youtube.com/@DMSCreates/videos
+https://github.com/DavidPagels/retro-pico-switch
+https://github.com/DavidPagels/retro-pico-switch/tree/master/src
+
++++++++ USB
+[![image](https://github.com/user-attachments/assets/6f87adb5-4971-4d68-a12e-9b8e09eb6eda)](https://youtu.be/buD-oxZESaU?t=387)
+[![image](https://github.com/user-attachments/assets/25a2e405-55f4-415f-8e99-9a9f468334ec)](https://youtu.be/buD-oxZESaU?t=890)
+https://youtu.be/buD-oxZESaU?t=890
+
+
+++++++++++++++++ EXCELLLLENT !!!!
+[![image](https://github.com/user-attachments/assets/93219fb9-32fb-44ea-93fd-87d1b1eaab1d)](https://www.youtube.com/@robertdalesmith/videos)
+https://www.youtube.com/@robertdalesmith/videos
+[![image](https://github.com/user-attachments/assets/79aff4c8-a1ed-487d-8f96-43c1c9984895)](https://youtu.be/QzZWHVLlQZQ?t=3551)
+https://youtu.be/QzZWHVLlQZQ?t=3551
+
+[![image](https://github.com/user-attachments/assets/345a4782-912e-4c05-a3df-7a55089489ad)](https://youtu.be/U0qPBv3S6bI?t=79)
+https://youtu.be/U0qPBv3S6bI?t=79
+[![image](https://github.com/user-attachments/assets/898435d7-eb27-49c0-b102-f53db1744bfb)](https://github.com/RobertDaleSmith/GP2040-CE)
+https://github.com/RobertDaleSmith/GP2040-CE
+
+
+[![image](https://github.com/user-attachments/assets/13351a4b-4f76-430d-be68-4c7b1c66a95f)](https://gp2040-ce.info/downloads)
+[![image](https://github.com/user-attachments/assets/27fdfdd9-aaa9-452e-95a1-0f5f14ecd5b5)](https://github.com/OpenStickCommunity/GP2040-CE/releases/tag/v0.7.10)
+https://github.com/OpenStickCommunity/GP2040-CE/releases/tag/v0.7.10  
+https://github.com/OpenStickCommunity/GP2040-CE/issues?q=pico+w
+
+
+🧙‍♂️🧙‍♂️🧙‍♂️🧙‍♂️ THE KEYWORD/ GP2040-CE Pico
+https://www.youtube.com/results?search_query=GP2040-CE+Pico
