@@ -10,6 +10,14 @@ _Project that I did for the fun linked to input hijacking._
 
 [![image](https://github.com/user-attachments/assets/d384adbc-ad05-4e33-96f8-5dcfcd13aa6c)](https://miro.com/app/board/uXjVLH_rPp4=/?share_link_id=197274785363)  
 https://miro.com/app/board/uXjVLH_rPp4=/?share_link_id=197274785363  
+
+
+Next playing session:
+- https://discord.gg/ZKtxduWs?event=1304723913452027924
+
+
+Next coaching session:
+- None for now
   
 ---------------
 
