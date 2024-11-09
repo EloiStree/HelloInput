@@ -18,7 +18,11 @@ Next playing session:
 
 Next coaching session:
 - None for now
-  
+
+
+Online testing:   
+https://hardwaretester.com/gamepad
+
 ---------------
 
 🤖 Cette icône indique que le contenu suivant est généré par l'IA.  
