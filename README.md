@@ -1,4 +1,9 @@
+[![image](https://github.com/user-attachments/assets/07a71582-9784-4a45-a40a-43f2665b7a3b)](https://youtu.be/N02mYYh78ng)
+https://youtu.be/N02mYYh78ng
 
+
+
+---------------
 
 🤖 Cette icône indique que le contenu suivant est généré par l'IA.  
 🧙‍♂️ Cette icône indique que je trouve le sujet magique :)  
