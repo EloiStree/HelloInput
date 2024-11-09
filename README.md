@@ -1,4 +1,5 @@
-[![image](https://github.com/user-attachments/assets/07a71582-9784-4a45-a40a-43f2665b7a3b)](https://youtu.be/N02mYYh78ng)
+
+[![image](https://github.com/user-attachments/assets/feb20381-2d48-4ba5-915e-1b47261b3b25)](https://youtu.be/N02mYYh78ng)
 https://youtu.be/N02mYYh78ng
 
 
