@@ -83,7 +83,8 @@ Cet atelier a été conçu pour un centre de formation, où nous apprenons ensem
 **Diverse sujets a etudier** :
 * Big list de sujet à etudier commence durant un atelier precedent avec les etudiants de l'HEAJ
 - https://github.com/EloiStree/HelloInput/issues/28
-
+* Precedent cours sur les boutons pour faire bouger un personnage sur Warcraft
+- https://github.com/EloiStree/HelloInput/issues/286
 
 
 ------------------
