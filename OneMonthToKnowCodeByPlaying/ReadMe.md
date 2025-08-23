@@ -89,3 +89,7 @@ Cet atelier a été conçu pour un centre de formation, où nous apprenons ensem
 
 ------------------
 
+
+# Brouillons
+- https://github.com/EloiStree/LearnCodeByFightingBotsWithBots/blob/main/GetStarted/ESPHC05MIRA/ReadMe.md
+
