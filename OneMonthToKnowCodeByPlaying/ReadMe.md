@@ -1,8 +1,8 @@
 
 
-**Vous rêvez d’apprendre à coder et vous êtes passionné par le jeu vidéo ?**
-Vous aimeriez devenir QA tester, et peut-être même, à terme, créateur de jeux vidéo ?
-Alors vous êtes au bon endroit 😁
+**Vous rêvez d’apprendre à coder et vous êtes passionné par le jeu vidéo ?**  
+Vous aimeriez devenir QA tester, et peut-être même, à terme, créateur de jeux vidéo ?  
+Alors vous êtes au bon endroit 😁  
 
 ---
 
@@ -11,8 +11,8 @@ Cet atelier a été conçu pour un centre de formation, où nous apprenons ensem
 À l’issue de cette formation, plusieurs opportunités professionnelles peuvent s’offrir à vous :
 
 * QA Scripter
-* Transition vers Unity3D
-* Transition vers Développeur C# Junior
+* Transition vers développeur Unity3D junior 
+* Transition vers développeur C# junior
 * Création de télémétrie pour l’IA
 * Développement d’outils pour l’accessibilité
 
@@ -68,6 +68,11 @@ Cet atelier a été conçu pour un centre de formation, où nous apprenons ensem
 
 * [https://github.com/EloiStree/HelloScratchToUnity/issues](https://github.com/EloiStree/HelloScratchToUnity/issues)
 * [https://github.com/EloiStree/2024\_02\_18\_ScratchToUnityWorkshops](https://github.com/EloiStree/2024_02_18_ScratchToUnityWorkshops)
+
+**Software alternative** :
+- JOMI XOMI et Scratch2Warcraft
+- PyAutoGUI
+
 
 
 **Diverse sujets a etudier** :
