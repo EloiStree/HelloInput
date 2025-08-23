@@ -10,6 +10,17 @@ Je vous propose d’apprendre à créer une petite voiture à 4 roues… ou d’
 
 Étonnamment (ou pas), construire entièrement votre propre véhicule reviendra souvent bien plus cher que d’acheter une voiture télécommandée et de la modifier.
 
-[![kit électronique](https://github.com/user-attachments/assets/25f8cbed-c7e7-40e0-874b-f9db9bef0538)](https://www.amazon.com.be/KeeYees-dEntraînement-Contrôleur-Intelligente-Compatible/dp/B07ZT5CCFV/)
-👉 [Lien vers le kit](https://www.amazon.com.be/KeeYees-dEntraînement-Contrôleur-Intelligente-Compatible/dp/B07ZT5CCFV/)
+[![kit électronique](https://github.com/user-attachments/assets/25f8cbed-c7e7-40e0-874b-f9db9bef0538)](https://www.amazon.com.be/KeeYees-dEntraînement-Contrôleur-Intelligente-Compatible/dp/B07ZT5CCFV/)  
+👉 [Lien vers le kit](https://www.amazon.com.be/KeeYees-dEntraînement-Contrôleur-Intelligente-Compatible/dp/B07ZT5CCFV/)  
+
+
+Pour piloter la voiture, nous apprendrons à utiliser différentes méthodes de contrôle :
+
+* Le module **HC-05** via Bluetooth
+* Le **WebSocket** de l’ESP32
+* La lecture de **boutons d’arcade**
+
+[![boutons arcade](https://github.com/user-attachments/assets/c4240d5a-c4d2-4c2c-aa7a-8fd52aedbdba)](https://www.temu.com/be-nl/10-stuks-momentary-game-drukknoppen-voor-arcade-videogames-30mm-zwart-g-601099931429509.html)
+👉 [Lien vers le produit](https://www.temu.com/be-nl/10-stuks-momentary-game-drukknoppen-voor-arcade-videogames-30mm-zwart-g-601099931429509.html)
+
 
