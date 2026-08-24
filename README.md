@@ -55,3 +55,22 @@ Si vous souhaitez d'abord apprendre le C#, je vous invite à consulter :
 
 Trouvez mes autres cours en cherchant `Hello` dans mes répertoires:
 [Hello... ](https://github.com/EloiStree?tab=repositories&q=Hello&type=&language=&sort=)
+
+
+
+
+----------
+
+Should I ?
+ I did a Unity simulation of keyboard and listening of keyboard.
+ It works on Window. Should I create a finite tool of those package I am not upgrading anymore ?   
+ It it still key log and key inject.  
+
+Check List:
+- Simulate Keyboard with software:
+  -  Unity
+  -  Python
+
+
+
+
